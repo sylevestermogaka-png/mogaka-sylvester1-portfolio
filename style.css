@@ -28,5 +28,7 @@
   
 body {
   background: linear-gradient(135deg, #f8fafc, #e2e8f0);
+nav {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
