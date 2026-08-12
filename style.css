@@ -25,5 +25,8 @@
 
 .hero img:hover {
   transform: scale(1.05);
+  
+body {
+  background: linear-gradient(135deg, #f8fafc, #e2e8f0);
 }
 
