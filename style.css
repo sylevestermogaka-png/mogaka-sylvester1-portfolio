@@ -46,5 +46,7 @@ button:hover,
 .btn:hover,
 a.button:hover {
   transform: translateY(-2px);
+body {
+  line-height: 1.6;
 }
 
