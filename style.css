@@ -66,9 +66,9 @@ body {
 }
 
 .contact-icons a {
-  width: 35px;
-  height: 35px;
-  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  border-radius: 20%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -84,8 +84,8 @@ body {
 }
 
 .contact-icons svg {
-  width: 18px;
-  height: 18px;
+  width: 8px;
+  height: 8px;
   fill: white;
 }
 
