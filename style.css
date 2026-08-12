@@ -91,6 +91,8 @@ body {
 
 .contact-icons a:hover {
   transform: scale(1.12);
+.contact-icons a:nth-child(3) {
+  background: #7c3aed;
 }
 
 
