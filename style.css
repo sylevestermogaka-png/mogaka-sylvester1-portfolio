@@ -97,4 +97,18 @@ body {
 .contact-icons a:nth-child(4) {
   background: #0A66C2;
 }
+.cv-button {
+  display: inline-block;
+  margin-top: 25px;
+  padding: 10px 20px;
+  background: #2563eb;
+  color: white;
+  text-decoration: none;
+  border-radius: 25px;
+  font-weight: bold;
+  transition: transform 0.3s ease;
+}
 
+.cv-button:hover {
+  transform: translateY(-3px);
+}
