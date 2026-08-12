@@ -36,5 +36,15 @@ nav a {
 
 nav a:hover {
   transform: translateY(-2px);
+button,
+.btn,
+a.button {
+  transition: all 0.3s ease;
+}
+
+button:hover,
+.btn:hover,
+a.button:hover {
+  transform: translateY(-2px);
 }
 
