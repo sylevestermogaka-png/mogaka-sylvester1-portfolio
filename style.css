@@ -30,5 +30,11 @@ body {
   background: linear-gradient(135deg, #f8fafc, #e2e8f0);
 nav {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+nav a {
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+nav a:hover {
+  transform: translateY(-2px);
 }
 
