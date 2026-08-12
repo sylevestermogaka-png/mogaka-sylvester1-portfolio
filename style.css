@@ -18,7 +18,12 @@
   .hero img {
     width: 180px;
     height: 180px;
-  }
-}
   
+  .hero img {
+  transition: transform 0.3s ease;
+}
+
+.hero img:hover {
+  transform: scale(1.05);
+}
 
