@@ -21,7 +21,7 @@
   
   .hero img {
   transition: transform 0.3s ease;
-}
+
 
 .hero img:hover {
   transform: scale(1.05);
@@ -66,8 +66,8 @@ body {
 }
 
 .contact-icons a {
-  width: 55px;
-  height: 55px;
+  width: 35px;
+  height: 35px;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -84,8 +84,8 @@ body {
 }
 
 .contact-icons svg {
-  width: 30px;
-  height: 30px;
+  width: 18px;
+  height: 18px;
   fill: white;
 }
 
